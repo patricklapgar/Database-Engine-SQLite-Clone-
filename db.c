@@ -76,7 +76,7 @@ typedef struct {
     void* pages[TABLE_MAX_PAGES];
 } Pager;
 
-// Let's get a table structure to pint to pages of rows. This will keep track of how many rows exist
+// Let's get a table structure to print to pages of rows. This will keep track of how many rows exist
 typedef struct {
     uint32_t root_page_num; // A B-Tree is identified by its root node number
     Pager* pager;
