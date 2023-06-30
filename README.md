@@ -1,4 +1,4 @@
-# Database-Engine-SQLite-Clone
+# SQL Clone
 
 Here's the repo for a side project I did earlier this year.
 
